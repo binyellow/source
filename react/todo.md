@@ -1,0 +1,4 @@
+- [ ] Scheduler polyfill requrestIdleCallback模拟
+- [ ] 在浏览器的每一帧中间预留 5ms 给 UI，如果时间不够了，就暂停执行 js，这个控制权如何交还？
+- [ ] [react做增删改查的时候，key的作用](https://zhuanlan.zhihu.com/p/20346379)
+- [ ] current是啥，fiberRoot和rootFiber区别
