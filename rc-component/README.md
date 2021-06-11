@@ -15,5 +15,5 @@
 
 - [animate](./Animation/animate.xmind)
 - [tooltip](./ToolTip.xmind)
-- [virtual-list](./virtual-list/../vertual-list/virtual-list.xmind)
+- [virtual-list](./virtual-list.xmind)
 - [form-field](./form-field.xmind)
